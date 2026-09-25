@@ -1,6 +1,6 @@
 # DITO — Drop In The Ocean 🌊
 
-### ▶️ **[Launch the live app →](https://umair-jm.github.io/DITO/)**
+### ▶️ **[Launch the live app →](https://umairjmanj.github.io/DITO/)**
 
 No install, no sign-up — runs free in your browser on any device (phone or desktop).
 
